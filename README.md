@@ -15,4 +15,4 @@ Projet en cours actuellement :
 
 Je bosse sur Iroflix qui est un site de streaming ou il y'auras tout les dernier film pas de pub, Haute Qualité .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xLuffy93 &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xLuffy93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
